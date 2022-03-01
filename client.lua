@@ -156,7 +156,7 @@ menu_button1:On("select", function()
 end)
 
 -- MAIN THREAD
-CreateThread(function()
+--[[CreateThread(function()
     while true do
         sleep = 1000
         if PlayerJob.name ~= nil then
@@ -175,7 +175,7 @@ CreateThread(function()
         end
       Wait(sleep)
     end
-end)
+end)]]
 
 -- FUNCTIONS
 function UpdateSociety()
