@@ -7,5 +7,5 @@ Config.Jobs = {
     ['taxi'] = vector3(903.32, -170.55, 74.0),
     ['cardealer'] = vector3(-32.0, -1114.2, 26.4),
     ['mechanic'] = vector3(-305.67, -121.01, 39.01),
-    ['burgershot'] = 
+    ['snowsgunshow'] = vector3(12.54, -1105.8, 29.8)
 }
